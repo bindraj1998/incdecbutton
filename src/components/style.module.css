@@ -1,0 +1,14 @@
+.red{
+   color: red; 
+}
+.green{
+    color:green
+}
+.bl{
+    border: 2px solid red;
+    height: 300px;
+    width: 500px;
+    background-color: #e7e9eb;
+    margin-left: 30%;
+    padding-top: 40px;
+}
